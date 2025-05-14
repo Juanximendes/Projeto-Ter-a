@@ -1,9 +1,9 @@
 import Layout from "./compoments/Layout"
-import Inicio from "../pages/Inicio"
-import Sobre from "../pages/Sobre"
-import Contato from "../pages/Contato"
-import Perfil from "../pages/Perfil"
-import Produtos from "../pages/Produtos"
+import Inicio from "../pages/Inicio/Inicio"
+import Sobre from "../pages/Sobre/Sobre"
+import Contato from "../pages/Contato/Contato"
+import Perfil from "../pages/Perfil/Perfil"
+import Produtos from "../pages/Produtos/Produtos"
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 
 function App() {
